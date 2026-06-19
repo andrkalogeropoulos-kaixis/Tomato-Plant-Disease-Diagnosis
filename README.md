@@ -55,6 +55,13 @@ A critical limitation of the current model is its structural dependency on the *
 * **Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 
 ## 📦 How to Run the Notebook
+
+### Option 1: Run Online (Recommended)
+Simply open the interactive notebook directly on [Kaggle](https://www.kaggle.com/code/andreaskalog/plant-disease-diagnosis).
+
+### Option 2: Run Locally
+If you prefer to run the project on your local machine:
+
 1. Clone the repository:
    ```bash
    git clone [https://github.com/andrkalogeropoulos-kaixis/Tomato-Plant-Disease-Diagnosis.git](https://github.com/andrkalogeropoulos-kaixis/Tomato-Plant-Disease-Diagnosis.git)
